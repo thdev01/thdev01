@@ -1,57 +1,25 @@
-# Developer Portfolio
+# Hi there 👋
 
-Building scalable, production-ready applications with modern technologies and best practices.
+Welcome to my GitHub! I'm Thales Castro, always looking for something to code. Here you'll find my journey through different technologies and projects.
 
-## Core Technologies
+## 🛠️ Areas of Focus
 
-**Backend & Infrastructure**
-- **Go** - High-performance microservices and concurrent systems
-- **TypeScript/JavaScript** - Full-stack web applications
-- **Python** - ML pipelines and automation
-- **Docker & Kubernetes** - Container orchestration at scale
+- **Rust:** Systems programming, performance-critical applications, and exploring new paradigms.
+- **Elixir:** Building scalable and concurrent backend solutions with a focus on functional programming.
+- **TypeScript & Go:** Backend services, tools, and modern API development.
+- **Next.js + React:** Full-stack and frontend web applications using the latest in JavaScript frameworks.
 
-**Data & APIs**
-- **PostgreSQL, MongoDB, Redis** - Database design and optimization
-- **gRPC & REST** - Efficient API development
-- **Event-driven architecture** - Scalable distributed systems
+## 🚀 What I'm Working On
 
-**DevOps & Cloud**
-- **CI/CD with GitHub Actions** - Automated deployment pipelines
-- **AWS/GCP/Azure** - Cloud infrastructure
-- **Prometheus & Grafana** - Monitoring and observability
+Currently, my most frequent activities revolve around:
+- Experimenting with Rust and Elixir for backend and distributed systems.
+- Creating robust APIs and tools using Go and TypeScript.
+- Building modern web experiences with Next.js and React.
 
-## What I Build
+## 📫 Contact
 
-**Microservices Architecture**
-Designing distributed systems with service mesh, API gateways, and event streaming for high availability and scalability.
+Feel free to reach out or check out my latest work!
 
-**Cloud-Native Applications**
-Kubernetes-native solutions with custom operators, serverless functions, and multi-cloud deployment strategies.
+---
 
-**ML & AI Systems**
-End-to-end machine learning pipelines from training to production deployment, including RAG systems and model fine-tuning.
-
-**High-Performance APIs**
-gRPC services with Protocol Buffers, GraphQL implementations, and real-time communication systems.
-
-## Development Philosophy
-
-- **Test-driven development** with comprehensive testing strategies
-- **Infrastructure as Code** using Terraform and automated provisioning
-- **Zero-downtime deployments** with blue-green strategies and rollback mechanisms
-- **Observability-first** approach with structured logging and metrics
-
-## System Architecture
-
-```mermaid
-graph TB
-    A[Client] -->|HTTPS| B[Load Balancer]
-    B --> C[API Gateway]
-    C --> D[Microservices]
-    D --> E[Message Queue]
-    D --> F[(Database)]
-    E --> G[Background Services]
-    H[Monitoring] --> D
-```
-
-Ready to collaborate on innovative solutions for complex technical challenges.
+_Always coding, always learning._
