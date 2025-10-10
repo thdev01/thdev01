@@ -1,25 +1,31 @@
-# Hi there 👋
-
-Welcome to my GitHub! I'm Thales Castro, always looking for something to code. Here you'll find my journey through different technologies and projects.
-
-## 🛠️ Areas of Focus
-
-- **Rust:** Systems programming, performance-critical applications, and exploring new paradigms.
-- **Elixir:** Building scalable and concurrent backend solutions with a focus on functional programming.
-- **TypeScript & Go:** Backend services, tools, and modern API development.
-- **Next.js + React:** Full-stack and frontend web applications using the latest in JavaScript frameworks.
-
-## 🚀 What I'm Working On
-
-Currently, my most frequent activities revolve around:
-- Experimenting with Rust and Elixir for backend and distributed systems.
-- Creating robust APIs and tools using Go and TypeScript.
-- Building modern web experiences with Next.js and React.
-
-## 📫 Contact
-
-Feel free to reach out or check out my latest work!
+# I write things that (hopefully) make sense to machines.  
+```Sometimes they even compile.```
 
 ---
 
-_Always coding, always learning._
+### 🧠 What I Do
+I spend most of my time exploring how code becomes meaning —  
+from low-level logic to high-level abstractions.
+
+- 🦀 **Rust** → systems programming and chasing performance dragons.  
+- ⚗️ **Elixir** → concurrent backends that actually stay alive.  
+- 🌀 **Go & TypeScript** → APIs, tools, and modern backend architecture.  
+- ⚛️ **Next.js + React** → because someone has to make it look nice too.
+
+---
+
+### 🚀 What I'm Working On
+- Building tools that help developers talk to machines more clearly.  
+- Experimenting with distributed systems, AI agents, and compilers.  
+- Turning caffeine into code (and occasionally, into bugs).
+
+---
+
+### 📫 How to Reach Me
+If you like logic, language, or chaos disguised as code — let’s talk.  
+I’m always building, learning, and occasionally refactoring my own mind.
+
+---
+
+> *“Code is just structured poetry that machines happen to understand.”*  
+> — thdev01 (Thales B.C)
