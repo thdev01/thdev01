@@ -48,11 +48,6 @@ from low-level logic to high-level abstractions.
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=thdev01&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,react,nextjs,go,nodejs,postgresql,mongodb,docker,redis&theme=dark" />
